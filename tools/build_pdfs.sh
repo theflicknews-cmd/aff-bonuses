@@ -123,5 +123,21 @@ $PY "build/pdf/34-Copywriting-Formulas.pdf" "Copywriting Formulas Swipe Pack" \
 $PY "build/pdf/35-Quiz-Funnel-Kit.pdf" "Quiz Funnel Kit" \
     products/35-quiz-funnel-kit/README.md products/35-quiz-funnel-kit/quiz-templates.md
 
+# ---- Batch 8 ----
+$PY "build/pdf/36-List-Growth-Guide.pdf" "Email List Growth Guide" \
+    products/36-list-growth-guide/README.md products/36-list-growth-guide/tactics.md
+
+$PY "build/pdf/37-Story-Email-Sequence.pdf" "Story-Based Email Sequence Pack" \
+    products/37-story-email-sequence/README.md products/37-story-email-sequence/sequence.md
+
+$PY "build/pdf/38-Personal-Brand-Guide.pdf" "Personal Brand & Authority Building Guide" \
+    products/38-personal-brand-guide/README.md products/38-personal-brand-guide/positioning-worksheet.md
+
+$PY "build/pdf/39-AI-Market-Research-Kit.pdf" "AI Market Research & Customer Avatar Kit" \
+    products/39-ai-market-research-kit/README.md products/39-ai-market-research-kit/research-prompts.md
+
+$PY "build/pdf/40-Glossary-QuickStart.pdf" "Affiliate Marketing Glossary & Quick-Reference" \
+    products/40-glossary-quickstart/README.md products/40-glossary-quickstart/glossary.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/

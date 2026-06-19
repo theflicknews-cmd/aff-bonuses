@@ -87,6 +87,16 @@ and delivered to buyers immediately.
 | 34 | [Copywriting Formulas Swipe Pack](products/34-copywriting-formulas/) | Affiliate / Copy | 15 formulas | Any promo |
 | 35 | [Quiz Funnel Kit](products/35-quiz-funnel-kit/) | Affiliate / Lead Gen | Blueprint + templates | List-building offers |
 
+## Batch 8 — Products
+
+| # | Product | Niche | Format | Best paired with |
+|---|---------|-------|--------|------------------|
+| 36 | [Email List Growth Guide](products/36-list-growth-guide/) | Affiliate / List | 12 tactics | List-building offers |
+| 37 | [Story-Based Email Sequence Pack](products/37-story-email-sequence/) | Affiliate / Email | 5-email soap-opera sequence | Any promo |
+| 38 | [Personal Brand & Authority Guide](products/38-personal-brand-guide/) | Affiliate / Branding | Strategy + worksheet | Any offer |
+| 39 | [AI Market Research & Avatar Kit](products/39-ai-market-research-kit/) | AI | Research prompts + worksheet | Any offer |
+| 40 | [Affiliate Marketing Glossary & Quick-Reference](products/40-glossary-quickstart/) | Affiliate | Glossary + cheat sheet | Beginner offers |
+
 ## PDF delivery
 
 Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
@@ -105,6 +115,7 @@ bash tools/build_pdfs.sh
 - **Batch 5** — YouTube growth, Facebook groups, high-ticket, metrics/optimization, bonus-stack strategy
 - **Batch 6** — Instagram, DM/outreach scripts, compliance pack, launch planner, 90-day action plan
 - **Batch 7** — blog content pack, AI image prompts, niche database, copywriting formulas, quiz funnel
+- **Batch 8** — list growth, story email sequence, personal brand, AI market research, glossary/reference
 
 More batches generate automatically until you say stop.
 
