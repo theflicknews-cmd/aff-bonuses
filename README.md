@@ -107,6 +107,16 @@ and delivered to buyers immediately.
 | 44 | [Seasonal & Holiday Promo Swipe Pack](products/44-seasonal-promo-pack/) | Affiliate | Calendar + seasonal swipes | Any offer, year-round |
 | 45 | [Affiliate SOP & Systems Toolkit](products/45-affiliate-sop-toolkit/) | Affiliate (adv.) | SOPs + dashboards | Scaling/biz offers |
 
+## Batch 10 — Products (new channels & mechanisms)
+
+| # | Product | Niche | Format | Best paired with |
+|---|---------|-------|--------|------------------|
+| 46 | [5-Day Challenge Launch Kit](products/46-challenge-launch-kit/) | Affiliate / Launches | Funnel + daily scripts | Any offer, engagement launches |
+| 47 | [Podcast & Audio Marketing Guide](products/47-podcast-audio-marketing/) | Social / Audio | Strategy + episode templates | Authority/evergreen offers |
+| 48 | [Custom GPT & AI Assistant Builder Guide](products/48-custom-gpt-builder/) | AI | Build guide + instructions | AI tool offers |
+| 49 | [Giveaway & Viral Referral Kit](products/49-giveaway-viral-kit/) | Affiliate / List | Funnel + referral mechanics | List-building offers |
+| 50 | [X (Twitter) Growth & Threads Playbook](products/50-x-twitter-growth/) | Social Media | Strategy + thread templates | Marketing/AI/biz offers |
+
 ## PDF delivery
 
 Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
@@ -127,6 +137,7 @@ bash tools/build_pdfs.sh
 - **Batch 7** — blog content pack, AI image prompts, niche database, copywriting formulas, quiz funnel
 - **Batch 8** — list growth, story email sequence, personal brand, AI market research, glossary/reference
 - **Batch 9** — recurring/SaaS income, email deliverability, outsourcing/scaling, seasonal promos, SOP toolkit
+- **Batch 10** — 5-day challenge, podcast/audio, custom-GPT builder, giveaway/viral kit, X (Twitter) growth
 
 More batches generate automatically until you say stop.
 

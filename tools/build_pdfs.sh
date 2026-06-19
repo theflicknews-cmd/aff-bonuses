@@ -155,5 +155,21 @@ $PY "build/pdf/44-Seasonal-Promo-Pack.pdf" "Seasonal & Holiday Promo Swipe Pack"
 $PY "build/pdf/45-Affiliate-SOP-Toolkit.pdf" "Affiliate SOP & Systems Toolkit" \
     products/45-affiliate-sop-toolkit/README.md products/45-affiliate-sop-toolkit/sops.md
 
+# ---- Batch 10 (new channels & mechanisms) ----
+$PY "build/pdf/46-Challenge-Launch-Kit.pdf" "5-Day Challenge Launch Kit" \
+    products/46-challenge-launch-kit/README.md products/46-challenge-launch-kit/challenge-scripts.md
+
+$PY "build/pdf/47-Podcast-Audio-Marketing.pdf" "Podcast & Audio Marketing Guide" \
+    products/47-podcast-audio-marketing/README.md products/47-podcast-audio-marketing/episode-templates.md
+
+$PY "build/pdf/48-Custom-GPT-Builder.pdf" "Custom GPT & AI Assistant Builder Guide" \
+    products/48-custom-gpt-builder/README.md products/48-custom-gpt-builder/assistant-instructions.md
+
+$PY "build/pdf/49-Giveaway-Viral-Kit.pdf" "Giveaway & Viral Referral Kit" \
+    products/49-giveaway-viral-kit/README.md products/49-giveaway-viral-kit/giveaway-templates.md
+
+$PY "build/pdf/50-X-Twitter-Growth.pdf" "X (Twitter) Growth & Threads Playbook" \
+    products/50-x-twitter-growth/README.md products/50-x-twitter-growth/thread-templates.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/
