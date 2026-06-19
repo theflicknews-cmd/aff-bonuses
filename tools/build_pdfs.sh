@@ -219,5 +219,21 @@ $PY "build/pdf/64-Personal-Finance-Bundle.pdf" "Personal Finance / Investing Pro
 $PY "build/pdf/65-Self-Improvement-Bundle.pdf" "Self-Improvement / Productivity Promo Bundle" \
     bundles/65-self-improvement-bundle/README.md bundles/65-self-improvement-bundle/swipes.md
 
+# ---- Batch 14 (more niche promo bundles) ----
+$PY "build/pdf/66-SEO-Content-Bundle.pdf" "SEO & Content Marketing Tools Promo Bundle" \
+    bundles/66-seo-content-bundle/README.md bundles/66-seo-content-bundle/swipes.md
+
+$PY "build/pdf/67-Coaching-Course-Bundle.pdf" "Coaching & Course Creator Tools Promo Bundle" \
+    bundles/67-coaching-course-bundle/README.md bundles/67-coaching-course-bundle/swipes.md
+
+$PY "build/pdf/68-Crypto-Web3-Bundle.pdf" "Crypto & Web3 Promo Bundle" \
+    bundles/68-crypto-web3-bundle/README.md bundles/68-crypto-web3-bundle/swipes.md
+
+$PY "build/pdf/69-Dating-Relationships-Bundle.pdf" "Dating & Relationships Promo Bundle" \
+    bundles/69-dating-relationships-bundle/README.md bundles/69-dating-relationships-bundle/swipes.md
+
+$PY "build/pdf/70-Survival-Preparedness-Bundle.pdf" "Survival & Preparedness Promo Bundle" \
+    bundles/70-survival-preparedness-bundle/README.md bundles/70-survival-preparedness-bundle/swipes.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/

@@ -144,6 +144,11 @@ email + social swipes, and bonus-page copy. Just add your `[PRODUCT]` and `[LINK
 | 63 | [eCommerce / Dropshipping Bundle](bundles/63-ecommerce-dropshipping-bundle/) | Ecommerce | Avatar + angles + 5 emails + social + bonus page |
 | 64 | [Personal Finance / Investing Bundle](bundles/64-personal-finance-bundle/) | Finance | Avatar + angles + 5 emails + social + bonus page (compliant) |
 | 65 | [Self-Improvement / Productivity Bundle](bundles/65-self-improvement-bundle/) | Self-improvement | Avatar + angles + 5 emails + social + bonus page |
+| 66 | [SEO & Content Marketing Tools Bundle](bundles/66-seo-content-bundle/) | SEO tools | Avatar + angles + 5 emails + social + bonus page |
+| 67 | [Coaching & Course Creator Tools Bundle](bundles/67-coaching-course-bundle/) | Creators | Avatar + angles + 5 emails + social + bonus page |
+| 68 | [Crypto & Web3 Bundle](bundles/68-crypto-web3-bundle/) | Crypto (compliant) | Avatar + angles + 5 emails + social + bonus page |
+| 69 | [Dating & Relationships Bundle](bundles/69-dating-relationships-bundle/) | Relationships | Avatar + angles + 5 emails + social + bonus page |
+| 70 | [Survival & Preparedness Bundle](bundles/70-survival-preparedness-bundle/) | Survival/prepping | Avatar + angles + 5 emails + social + bonus page |
 
 ## PDF delivery
 
@@ -169,6 +174,7 @@ bash tools/build_pdfs.sh
 - **Batch 11** — LinkedIn, backend/LTV, faceless AI video, newsletter monetization, deal/comparison site
 - **Batch 12** — niche promo bundles (AI tools, MMO, email/list, traffic/social, weight-loss) — done-for-you campaigns
 - **Batch 13** — niche promo bundles (video tools, funnel builders, ecommerce, personal finance, self-improvement)
+- **Batch 14** — niche promo bundles (SEO tools, coaching/courses, crypto, dating, survival)
 
 More batches generate automatically until you say stop.
 
