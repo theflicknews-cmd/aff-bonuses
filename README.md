@@ -67,6 +67,16 @@ and delivered to buyers immediately.
 | 24 | [Affiliate Metrics & Optimization Guide](products/24-metrics-optimization/) | Affiliate | KPI guide + tracking sheet | Any offer |
 | 25 | [The Bonus Stack Strategy Guide](products/25-bonus-stack-strategy/) | Affiliate | Strategy + stack planner | Any offer (ties the vault together) |
 
+## Batch 6 — Products
+
+| # | Product | Niche | Format | Best paired with |
+|---|---------|-------|--------|------------------|
+| 26 | [Instagram Affiliate Marketing Playbook](products/26-instagram-playbook/) | Social Media | Strategy + templates | Instagram/SMM offers |
+| 27 | [DM & Outreach Script Pack](products/27-dm-outreach-scripts/) | Affiliate / Social | 25 scripts | Social selling offers |
+| 28 | [Affiliate Compliance & Disclosure Pack](products/28-compliance-pack/) | Affiliate | Disclosure templates | Any offer (essential) |
+| 29 | [Affiliate Launch & Promo Planner](products/29-launch-planner/) | Affiliate | Timeline template | Launch promos |
+| 30 | [The 90-Day Affiliate Action Plan](products/30-90-day-action-plan/) | Affiliate | 12-week roadmap | Beginner offers (capstone) |
+
 ## PDF delivery
 
 Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
@@ -83,6 +93,7 @@ bash tools/build_pdfs.sh
 - **Batch 3** — review site, webinar deck, paid ad swipes, AI tools directory, TikTok/Reels growth
 - **Batch 4** — beginner playbook, 200 headlines, Pinterest traffic, AI automation, offer scorecard
 - **Batch 5** — YouTube growth, Facebook groups, high-ticket, metrics/optimization, bonus-stack strategy
+- **Batch 6** — Instagram, DM/outreach scripts, compliance pack, launch planner, 90-day action plan
 
 More batches generate automatically until you say stop.
 

@@ -91,5 +91,21 @@ $PY "build/pdf/24-Metrics-Optimization.pdf" "Affiliate Metrics & Optimization Gu
 $PY "build/pdf/25-Bonus-Stack-Strategy.pdf" "The Bonus Stack Strategy Guide" \
     products/25-bonus-stack-strategy/README.md products/25-bonus-stack-strategy/stack-planner.md
 
+# ---- Batch 6 ----
+$PY "build/pdf/26-Instagram-Playbook.pdf" "Instagram Affiliate Marketing Playbook" \
+    products/26-instagram-playbook/README.md products/26-instagram-playbook/content-templates.md
+
+$PY "build/pdf/27-DM-Outreach-Scripts.pdf" "DM & Outreach Script Pack" \
+    products/27-dm-outreach-scripts/README.md products/27-dm-outreach-scripts/scripts.md
+
+$PY "build/pdf/28-Compliance-Pack.pdf" "Affiliate Compliance & Disclosure Pack" \
+    products/28-compliance-pack/README.md products/28-compliance-pack/templates.md
+
+$PY "build/pdf/29-Launch-Planner.pdf" "Affiliate Launch & Promo Planner" \
+    products/29-launch-planner/README.md products/29-launch-planner/launch-timeline.md
+
+$PY "build/pdf/30-90-Day-Action-Plan.pdf" "The 90-Day Affiliate Action Plan" \
+    products/30-90-day-action-plan/README.md products/30-90-day-action-plan/weekly-plan.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/
