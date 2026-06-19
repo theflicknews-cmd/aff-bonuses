@@ -251,5 +251,29 @@ $PY "build/pdf/74-Travel-Bundle.pdf" "Travel Promo Bundle" \
 $PY "build/pdf/75-Parenting-Bundle.pdf" "Parenting / Family Promo Bundle" \
     bundles/75-parenting-bundle/README.md bundles/75-parenting-bundle/swipes.md
 
+# ---- FunnelHero AI Bonus Suite ----
+$PY "build/pdf/FH0-FunnelHero-Bonus-Suite-Index.pdf" "FunnelHero AI - Bonus Suite (Index)" \
+    funnelhero-bonuses/README.md
+$PY "build/pdf/FH1-Chat-Command-Vault.pdf" "Bonus 1 - The Chat-Command Vault" \
+    funnelhero-bonuses/FH1-chat-command-vault.md
+$PY "build/pdf/FH2-Model-Matched-Prompt-Library.pdf" "Bonus 2 - The Model-Matched Prompt Library" \
+    funnelhero-bonuses/FH2-model-matched-prompt-library.md
+$PY "build/pdf/FH3-Funnel-Blueprint-Library.pdf" "Bonus 3 - The 6-Figure Funnel Blueprint Library" \
+    funnelhero-bonuses/FH3-funnel-blueprint-library.md
+$PY "build/pdf/FH4-Niche-Funnel-Goldmine.pdf" "Bonus 4 - The Niche Funnel Goldmine" \
+    funnelhero-bonuses/FH4-niche-funnel-goldmine.md
+$PY "build/pdf/FH5-Funnel-Copy-Swipe-File.pdf" "Bonus 5 - The Funnel Copy Swipe File" \
+    funnelhero-bonuses/FH5-funnel-copy-swipe-file.md
+$PY "build/pdf/FH6-AI-Image-Prompt-Pack.pdf" "Bonus 6 - The AI Image Prompt Pack" \
+    funnelhero-bonuses/FH6-ai-image-prompt-pack.md
+$PY "build/pdf/FH7-AI-Brain-Selector.pdf" "Bonus 7 - The AI Brain Selector" \
+    funnelhero-bonuses/FH7-ai-brain-selector.md
+$PY "build/pdf/FH8-Funnel-Rescue-Diagnostics.pdf" "Bonus 8 - The Funnel Rescue Diagnostics" \
+    funnelhero-bonuses/FH8-funnel-rescue-diagnostics.md
+$PY "build/pdf/FH9-Split-Test-Idea-Bank.pdf" "Bonus 9 - The Split-Test Idea Bank" \
+    funnelhero-bonuses/FH9-split-test-idea-bank.md
+$PY "build/pdf/FH10-Power-Workflow-Vault.pdf" "Bonus 10 - The Power-Workflow Vault" \
+    funnelhero-bonuses/FH10-power-workflow-vault.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/
