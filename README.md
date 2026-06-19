@@ -117,6 +117,16 @@ and delivered to buyers immediately.
 | 49 | [Giveaway & Viral Referral Kit](products/49-giveaway-viral-kit/) | Affiliate / List | Funnel + referral mechanics | List-building offers |
 | 50 | [X (Twitter) Growth & Threads Playbook](products/50-x-twitter-growth/) | Social Media | Strategy + thread templates | Marketing/AI/biz offers |
 
+## Batch 11 — Products (more channels & models)
+
+| # | Product | Niche | Format | Best paired with |
+|---|---------|-------|--------|------------------|
+| 51 | [LinkedIn Affiliate Marketing Playbook](products/51-linkedin-playbook/) | Social (B2B) | Strategy + templates | B2B/SaaS/high-ticket offers |
+| 52 | [Backend & Buyer LTV Profit System](products/52-backend-ltv-system/) | Affiliate (adv.) | Retention system + LTV math | Recurring/upsell offers |
+| 53 | [Faceless AI Video Channel Blueprint](products/53-faceless-ai-video/) | AI / Video | Production pipeline | AI/video offers |
+| 54 | [Affiliate Newsletter Monetization System](products/54-newsletter-monetization/) | Affiliate / Email | Model + issue templates | List/email offers |
+| 55 | [Deal & Comparison Site Model](products/55-deal-comparison-site/) | Affiliate / SEO | Site model + page templates | Recurring/SaaS offers |
+
 ## PDF delivery
 
 Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
@@ -138,6 +148,7 @@ bash tools/build_pdfs.sh
 - **Batch 8** — list growth, story email sequence, personal brand, AI market research, glossary/reference
 - **Batch 9** — recurring/SaaS income, email deliverability, outsourcing/scaling, seasonal promos, SOP toolkit
 - **Batch 10** — 5-day challenge, podcast/audio, custom-GPT builder, giveaway/viral kit, X (Twitter) growth
+- **Batch 11** — LinkedIn, backend/LTV, faceless AI video, newsletter monetization, deal/comparison site
 
 More batches generate automatically until you say stop.
 

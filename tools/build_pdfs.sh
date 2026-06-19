@@ -171,5 +171,21 @@ $PY "build/pdf/49-Giveaway-Viral-Kit.pdf" "Giveaway & Viral Referral Kit" \
 $PY "build/pdf/50-X-Twitter-Growth.pdf" "X (Twitter) Growth & Threads Playbook" \
     products/50-x-twitter-growth/README.md products/50-x-twitter-growth/thread-templates.md
 
+# ---- Batch 11 (more channels & models) ----
+$PY "build/pdf/51-LinkedIn-Playbook.pdf" "LinkedIn Affiliate Marketing Playbook" \
+    products/51-linkedin-playbook/README.md products/51-linkedin-playbook/post-templates.md
+
+$PY "build/pdf/52-Backend-LTV-System.pdf" "Backend & Buyer LTV Profit System" \
+    products/52-backend-ltv-system/README.md products/52-backend-ltv-system/ltv-playbook.md
+
+$PY "build/pdf/53-Faceless-AI-Video.pdf" "Faceless AI Video Channel Blueprint" \
+    products/53-faceless-ai-video/README.md products/53-faceless-ai-video/production-pipeline.md
+
+$PY "build/pdf/54-Newsletter-Monetization.pdf" "Affiliate Newsletter Monetization System" \
+    products/54-newsletter-monetization/README.md products/54-newsletter-monetization/issue-templates.md
+
+$PY "build/pdf/55-Deal-Comparison-Site.pdf" "Deal & Comparison Site Model" \
+    products/55-deal-comparison-site/README.md products/55-deal-comparison-site/page-structures.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/
