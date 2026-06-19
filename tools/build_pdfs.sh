@@ -43,5 +43,21 @@ $PY "build/pdf/09-Free-Traffic-Playbook.pdf" "Free Traffic Playbook" \
 $PY "build/pdf/10-Funnel-Templates.pdf" "Done-For-You Sales Funnel Templates" \
     products/10-funnel-templates/README.md products/10-funnel-templates/page-copy.md
 
+# ---- Batch 3 ----
+$PY "build/pdf/11-Review-Site-Blueprint.pdf" "Affiliate Review Site Blueprint" \
+    products/11-review-site-blueprint/README.md products/11-review-site-blueprint/page-templates.md
+
+$PY "build/pdf/12-Webinar-Deck.pdf" "Webinar Slide Deck Template" \
+    products/12-webinar-deck/README.md products/12-webinar-deck/slides.md
+
+$PY "build/pdf/13-Paid-Ads-Swipes.pdf" "Paid Ads Swipe File" \
+    products/13-paid-ads-swipes/README.md products/13-paid-ads-swipes/ad-swipes.md
+
+$PY "build/pdf/14-AI-Tools-Directory.pdf" "AI Tools Directory for Affiliates" \
+    products/14-ai-tools-directory/README.md products/14-ai-tools-directory/promo-angles.md
+
+$PY "build/pdf/15-TikTok-Reels-Growth.pdf" "TikTok & Reels Growth Playbook" \
+    products/15-tiktok-reels-growth/README.md products/15-tiktok-reels-growth/hook-bank.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/

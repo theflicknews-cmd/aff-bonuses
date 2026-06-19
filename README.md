@@ -37,6 +37,16 @@ and delivered to buyers immediately.
 | 9 | [Free Traffic Playbook](products/09-free-traffic-playbook/) | Affiliate / Traffic | 7 methods + 30-day plan | Beginner offers |
 | 10 | [Done-For-You Funnel Templates](products/10-funnel-templates/) | Affiliate / Funnels | 4 funnels + page copy | Funnel builders |
 
+## Batch 3 — Products
+
+| # | Product | Niche | Format | Best paired with |
+|---|---------|-------|--------|------------------|
+| 11 | [Affiliate Review Site Blueprint](products/11-review-site-blueprint/) | Affiliate / SEO | Structure + page templates | Evergreen/SEO offers |
+| 12 | [Webinar Slide Deck Template](products/12-webinar-deck/) | Affiliate / Webinars | 30-slide deck + notes | Launches, high-ticket |
+| 13 | [Paid Ads Swipe File](products/13-paid-ads-swipes/) | Affiliate / Paid | 20 ad swipes + targeting | Scaling with ads |
+| 14 | [AI Tools Directory for Affiliates](products/14-ai-tools-directory/) | AI | Directory + promo angles | AI tool offers |
+| 15 | [TikTok & Reels Growth Playbook](products/15-tiktok-reels-growth/) | Social Media | Strategy + 40 hooks | Short-form/SMM offers |
+
 ## PDF delivery
 
 Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
@@ -50,9 +60,9 @@ bash tools/build_pdfs.sh
 
 - **Batch 1** — AI prompts, bonus page, social calendar, email swipes, checklists
 - **Batch 2** — lead magnets, video scripts, AI repurposing, free traffic, funnels
+- **Batch 3** — review site, webinar deck, paid ad swipes, AI tools directory, TikTok/Reels growth
 
-More batches generate automatically until you say stop. Future angles:
-review-site kit, webinar slide decks, retargeting ad swipes, niche-specific packs.
+More batches generate automatically until you say stop.
 
 ---
 
