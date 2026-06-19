@@ -154,6 +154,11 @@ email + social swipes, and bonus-page copy. Just add your `[PRODUCT]` and `[LINK
 | 73 | [Cooking / Recipes Bundle](bundles/73-cooking-recipes-bundle/) | Cooking | Avatar + angles + 5 emails + social + bonus page |
 | 74 | [Travel Bundle](bundles/74-travel-bundle/) | Travel | Avatar + angles + 5 emails + social + bonus page |
 | 75 | [Parenting / Family Bundle](bundles/75-parenting-bundle/) | Parenting | Avatar + angles + 5 emails + social + bonus page |
+| 76 | [Beauty / Skincare Bundle](bundles/76-beauty-skincare-bundle/) | Beauty | Avatar + angles + 5 emails + social + bonus page |
+| 77 | [Spirituality / Manifestation Bundle](bundles/77-spirituality-manifestation-bundle/) | Spirituality | Avatar + angles + 5 emails + social + bonus page |
+| 78 | [Language Learning Bundle](bundles/78-language-learning-bundle/) | Language | Avatar + angles + 5 emails + social + bonus page |
+| 79 | [Photography Bundle](bundles/79-photography-bundle/) | Photography | Avatar + angles + 5 emails + social + bonus page |
+| 80 | [Gardening / Homesteading Bundle](bundles/80-gardening-homesteading-bundle/) | Gardening | Avatar + angles + 5 emails + social + bonus page |
 
 ## PDF delivery
 
@@ -181,6 +186,7 @@ bash tools/build_pdfs.sh
 - **Batch 13** — niche promo bundles (video tools, funnel builders, ecommerce, personal finance, self-improvement)
 - **Batch 14** — niche promo bundles (SEO tools, coaching/courses, crypto, dating, survival)
 - **Batch 15** — niche promo bundles (pets, gaming, cooking, travel, parenting)
+- **Batch 16** — niche promo bundles (beauty, spirituality, language, photography, gardening)
 
 More batches generate automatically until you say stop.
 

@@ -251,5 +251,21 @@ $PY "build/pdf/74-Travel-Bundle.pdf" "Travel Promo Bundle" \
 $PY "build/pdf/75-Parenting-Bundle.pdf" "Parenting / Family Promo Bundle" \
     bundles/75-parenting-bundle/README.md bundles/75-parenting-bundle/swipes.md
 
+# ---- Batch 16 (more niche promo bundles) ----
+$PY "build/pdf/76-Beauty-Skincare-Bundle.pdf" "Beauty / Skincare Promo Bundle" \
+    bundles/76-beauty-skincare-bundle/README.md bundles/76-beauty-skincare-bundle/swipes.md
+
+$PY "build/pdf/77-Spirituality-Manifestation-Bundle.pdf" "Spirituality / Manifestation Promo Bundle" \
+    bundles/77-spirituality-manifestation-bundle/README.md bundles/77-spirituality-manifestation-bundle/swipes.md
+
+$PY "build/pdf/78-Language-Learning-Bundle.pdf" "Language Learning Promo Bundle" \
+    bundles/78-language-learning-bundle/README.md bundles/78-language-learning-bundle/swipes.md
+
+$PY "build/pdf/79-Photography-Bundle.pdf" "Photography Promo Bundle" \
+    bundles/79-photography-bundle/README.md bundles/79-photography-bundle/swipes.md
+
+$PY "build/pdf/80-Gardening-Homesteading-Bundle.pdf" "Gardening / Homesteading Promo Bundle" \
+    bundles/80-gardening-homesteading-bundle/README.md bundles/80-gardening-homesteading-bundle/swipes.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/
