@@ -57,6 +57,16 @@ and delivered to buyers immediately.
 | 19 | [AI Automation Guide for Affiliates](products/19-ai-automation-guide/) | AI | 10 automations + recipes | Automation/AI offers |
 | 20 | [Affiliate Offer Scorecard & Niche Kit](products/20-offer-selection-kit/) | Affiliate | Scoring system + worksheet | Beginner offers |
 
+## Batch 5 — Products
+
+| # | Product | Niche | Format | Best paired with |
+|---|---------|-------|--------|------------------|
+| 21 | [YouTube Growth Kit for Affiliates](products/21-youtube-growth-kit/) | Social / Video | Strategy + SEO checklist | YouTube/video offers |
+| 22 | [Facebook Group & Community Marketing](products/22-facebook-group-marketing/) | Social / Community | Strategy + templates | Community/SMM offers |
+| 23 | [High-Ticket Affiliate Promotion Guide](products/23-high-ticket-guide/) | Affiliate | Strategy + objection scripts | High-ticket offers |
+| 24 | [Affiliate Metrics & Optimization Guide](products/24-metrics-optimization/) | Affiliate | KPI guide + tracking sheet | Any offer |
+| 25 | [The Bonus Stack Strategy Guide](products/25-bonus-stack-strategy/) | Affiliate | Strategy + stack planner | Any offer (ties the vault together) |
+
 ## PDF delivery
 
 Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
@@ -72,6 +82,7 @@ bash tools/build_pdfs.sh
 - **Batch 2** — lead magnets, video scripts, AI repurposing, free traffic, funnels
 - **Batch 3** — review site, webinar deck, paid ad swipes, AI tools directory, TikTok/Reels growth
 - **Batch 4** — beginner playbook, 200 headlines, Pinterest traffic, AI automation, offer scorecard
+- **Batch 5** — YouTube growth, Facebook groups, high-ticket, metrics/optimization, bonus-stack strategy
 
 More batches generate automatically until you say stop.
 

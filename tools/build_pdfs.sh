@@ -75,5 +75,21 @@ $PY "build/pdf/19-AI-Automation-Guide.pdf" "AI Automation Guide for Affiliates" 
 $PY "build/pdf/20-Offer-Selection-Kit.pdf" "Affiliate Offer Scorecard & Niche Selection Kit" \
     products/20-offer-selection-kit/README.md products/20-offer-selection-kit/scorecard.md
 
+# ---- Batch 5 ----
+$PY "build/pdf/21-YouTube-Growth-Kit.pdf" "YouTube Growth Kit for Affiliates" \
+    products/21-youtube-growth-kit/README.md products/21-youtube-growth-kit/video-seo-checklist.md
+
+$PY "build/pdf/22-Facebook-Group-Marketing.pdf" "Facebook Group & Community Marketing Playbook" \
+    products/22-facebook-group-marketing/README.md products/22-facebook-group-marketing/engagement-templates.md
+
+$PY "build/pdf/23-High-Ticket-Guide.pdf" "High-Ticket Affiliate Promotion Guide" \
+    products/23-high-ticket-guide/README.md products/23-high-ticket-guide/objection-scripts.md
+
+$PY "build/pdf/24-Metrics-Optimization.pdf" "Affiliate Metrics & Optimization Guide" \
+    products/24-metrics-optimization/README.md products/24-metrics-optimization/tracking-template.md
+
+$PY "build/pdf/25-Bonus-Stack-Strategy.pdf" "The Bonus Stack Strategy Guide" \
+    products/25-bonus-stack-strategy/README.md products/25-bonus-stack-strategy/stack-planner.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/
