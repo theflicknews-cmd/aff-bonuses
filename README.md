@@ -149,6 +149,11 @@ email + social swipes, and bonus-page copy. Just add your `[PRODUCT]` and `[LINK
 | 68 | [Crypto & Web3 Bundle](bundles/68-crypto-web3-bundle/) | Crypto (compliant) | Avatar + angles + 5 emails + social + bonus page |
 | 69 | [Dating & Relationships Bundle](bundles/69-dating-relationships-bundle/) | Relationships | Avatar + angles + 5 emails + social + bonus page |
 | 70 | [Survival & Preparedness Bundle](bundles/70-survival-preparedness-bundle/) | Survival/prepping | Avatar + angles + 5 emails + social + bonus page |
+| 71 | [Pets / Dog Training Bundle](bundles/71-pets-dog-training-bundle/) | Pets | Avatar + angles + 5 emails + social + bonus page |
+| 72 | [Gaming Bundle](bundles/72-gaming-bundle/) | Gaming | Avatar + angles + 5 emails + social + bonus page |
+| 73 | [Cooking / Recipes Bundle](bundles/73-cooking-recipes-bundle/) | Cooking | Avatar + angles + 5 emails + social + bonus page |
+| 74 | [Travel Bundle](bundles/74-travel-bundle/) | Travel | Avatar + angles + 5 emails + social + bonus page |
+| 75 | [Parenting / Family Bundle](bundles/75-parenting-bundle/) | Parenting | Avatar + angles + 5 emails + social + bonus page |
 
 ## PDF delivery
 
@@ -175,6 +180,7 @@ bash tools/build_pdfs.sh
 - **Batch 12** — niche promo bundles (AI tools, MMO, email/list, traffic/social, weight-loss) — done-for-you campaigns
 - **Batch 13** — niche promo bundles (video tools, funnel builders, ecommerce, personal finance, self-improvement)
 - **Batch 14** — niche promo bundles (SEO tools, coaching/courses, crypto, dating, survival)
+- **Batch 15** — niche promo bundles (pets, gaming, cooking, travel, parenting)
 
 More batches generate automatically until you say stop.
 
