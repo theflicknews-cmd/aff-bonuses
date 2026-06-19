@@ -59,5 +59,21 @@ $PY "build/pdf/14-AI-Tools-Directory.pdf" "AI Tools Directory for Affiliates" \
 $PY "build/pdf/15-TikTok-Reels-Growth.pdf" "TikTok & Reels Growth Playbook" \
     products/15-tiktok-reels-growth/README.md products/15-tiktok-reels-growth/hook-bank.md
 
+# ---- Batch 4 ----
+$PY "build/pdf/16-Beginner-Playbook.pdf" "The Beginner's Affiliate Marketing Playbook" \
+    products/16-beginner-playbook/README.md products/16-beginner-playbook/quickstart.md
+
+$PY "build/pdf/17-Headline-Swipe-File.pdf" "200 Headlines & Hooks Swipe File" \
+    products/17-headline-swipe-file/README.md products/17-headline-swipe-file/headlines.md
+
+$PY "build/pdf/18-Pinterest-Traffic.pdf" "Pinterest Traffic Playbook" \
+    products/18-pinterest-traffic/README.md products/18-pinterest-traffic/pin-templates.md
+
+$PY "build/pdf/19-AI-Automation-Guide.pdf" "AI Automation Guide for Affiliates" \
+    products/19-ai-automation-guide/README.md products/19-ai-automation-guide/workflows.md
+
+$PY "build/pdf/20-Offer-Selection-Kit.pdf" "Affiliate Offer Scorecard & Niche Selection Kit" \
+    products/20-offer-selection-kit/README.md products/20-offer-selection-kit/scorecard.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/

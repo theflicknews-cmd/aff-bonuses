@@ -47,6 +47,16 @@ and delivered to buyers immediately.
 | 14 | [AI Tools Directory for Affiliates](products/14-ai-tools-directory/) | AI | Directory + promo angles | AI tool offers |
 | 15 | [TikTok & Reels Growth Playbook](products/15-tiktok-reels-growth/) | Social Media | Strategy + 40 hooks | Short-form/SMM offers |
 
+## Batch 4 — Products
+
+| # | Product | Niche | Format | Best paired with |
+|---|---------|-------|--------|------------------|
+| 16 | [Beginner's Affiliate Marketing Playbook](products/16-beginner-playbook/) | Affiliate | Ebook + 7-day quickstart | Beginner offers (front of stack) |
+| 17 | [200 Headlines & Hooks Swipe File](products/17-headline-swipe-file/) | Affiliate / Copy | 200 swipes | Any promo |
+| 18 | [Pinterest Traffic Playbook](products/18-pinterest-traffic/) | Social / Traffic | Strategy + pin swipes | Evergreen/SEO offers |
+| 19 | [AI Automation Guide for Affiliates](products/19-ai-automation-guide/) | AI | 10 automations + recipes | Automation/AI offers |
+| 20 | [Affiliate Offer Scorecard & Niche Kit](products/20-offer-selection-kit/) | Affiliate | Scoring system + worksheet | Beginner offers |
+
 ## PDF delivery
 
 Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
@@ -61,6 +71,7 @@ bash tools/build_pdfs.sh
 - **Batch 1** — AI prompts, bonus page, social calendar, email swipes, checklists
 - **Batch 2** — lead magnets, video scripts, AI repurposing, free traffic, funnels
 - **Batch 3** — review site, webinar deck, paid ad swipes, AI tools directory, TikTok/Reels growth
+- **Batch 4** — beginner playbook, 200 headlines, Pinterest traffic, AI automation, offer scorecard
 
 More batches generate automatically until you say stop.
 
