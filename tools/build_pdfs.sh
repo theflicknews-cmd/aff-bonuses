@@ -107,5 +107,21 @@ $PY "build/pdf/29-Launch-Planner.pdf" "Affiliate Launch & Promo Planner" \
 $PY "build/pdf/30-90-Day-Action-Plan.pdf" "The 90-Day Affiliate Action Plan" \
     products/30-90-day-action-plan/README.md products/30-90-day-action-plan/weekly-plan.md
 
+# ---- Batch 7 ----
+$PY "build/pdf/31-Blog-Content-Pack.pdf" "Affiliate Blog Content Pack" \
+    products/31-blog-content-pack/README.md products/31-blog-content-pack/post-templates.md
+
+$PY "build/pdf/32-AI-Image-Prompts.pdf" "AI Image & Thumbnail Prompt Pack" \
+    products/32-ai-image-prompts/README.md products/32-ai-image-prompts/image-prompts.md
+
+$PY "build/pdf/33-Niche-Database.pdf" "50 Profitable Affiliate Niches Database" \
+    products/33-niche-database/README.md products/33-niche-database/niches.md
+
+$PY "build/pdf/34-Copywriting-Formulas.pdf" "Copywriting Formulas Swipe Pack" \
+    products/34-copywriting-formulas/README.md products/34-copywriting-formulas/formulas.md
+
+$PY "build/pdf/35-Quiz-Funnel-Kit.pdf" "Quiz Funnel Kit" \
+    products/35-quiz-funnel-kit/README.md products/35-quiz-funnel-kit/quiz-templates.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/

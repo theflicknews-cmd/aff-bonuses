@@ -809,7 +809,7 @@ BT /FR 9.00 Tf 1 0 0 1 444.79 130.70 Tm (Beginner offers) Tj ET
 endstream
 endobj
 7 0 obj
-<< /Length 10050 >>
+<< /Length 9218 >>
 stream
 BT /FB 15.50 Tf 1 0 0 1 60.00 705.85 Tm
 (Batch) Tj ET
@@ -939,514 +939,636 @@ BT /FR 9.00 Tf 1 0 0 1 444.79 262.70 Tm (Beginner offers) Tj ET
 BT /FR 9.00 Tf 1 0 0 1 444.79 251.70 Tm (\(capstone\)) Tj ET
 0.8 0.8 0.8 RG 0.6 w 60.00 235.70 m 552.00 235.70 l S
 BT /FB 15.50 Tf 1 0 0 1 60.00 191.55 Tm
-(PDF) Tj ET
-BT /FB 15.50 Tf 1 0 0 1 92.86 191.55 Tm
-( ) Tj ET
-BT /FB 15.50 Tf 1 0 0 1 97.43 191.55 Tm
-(delivery) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 60.00 167.55 Tm
-(Every) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 86.84 167.55 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 89.76 167.55 Tm
-(product) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 124.77 167.55 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 127.69 167.55 Tm
-(is) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 135.27 167.55 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 138.19 167.55 Tm
-(also) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 157.45 167.55 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 160.37 167.55 Tm
-(built) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 179.63 167.55 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 182.55 167.55 Tm
-(as) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 193.63 167.55 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 196.55 167.55 Tm
-(a) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 202.39 167.55 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 205.31 167.55 Tm
-(ready-to-deliver) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 278.24 167.55 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 281.16 167.55 Tm
-(PDF) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 302.16 167.55 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 305.08 167.55 Tm
-(in) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 313.25 167.55 Tm
-( ) Tj ET
-BT /FC 10.50 Tf 1 0 0 1 316.17 167.55 Tm
-(build/pdf/) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 379.17 167.55 Tm
-(.) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 60.00 152.55 Tm
-(Rebuild) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 95.59 152.55 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 98.51 152.55 Tm
-(anytime) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 135.27 152.55 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 138.19 152.55 Tm
-(with:) Tj ET
-BT /FC 9.00 Tf 1 0 0 1 70.00 130.05 Tm
-(bash) Tj ET
-BT /FC 9.00 Tf 1 0 0 1 91.60 130.05 Tm
-( ) Tj ET
-BT /FC 9.00 Tf 1 0 0 1 97.00 130.05 Tm
-(tools/build_pdfs.sh) Tj ET
-BT /FB 15.50 Tf 1 0 0 1 60.00 87.90 Tm
-(Batches) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 74.00 64.40 Tm
-(-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 77.50 64.40 Tm
-( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 80.42 64.40 Tm
 (Batch) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 108.87 64.40 Tm
+BT /FB 15.50 Tf 1 0 0 1 102.01 191.55 Tm
 ( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 111.97 64.40 Tm
-(1) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 118.16 64.40 Tm
+BT /FB 15.50 Tf 1 0 0 1 106.58 191.55 Tm
+(7) Tj ET
+BT /FB 15.50 Tf 1 0 0 1 115.71 191.55 Tm
 ( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 121.08 64.40 Tm
+BT /FB 15.50 Tf 1 0 0 1 120.28 191.55 Tm
 (-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 124.57 64.40 Tm
+BT /FB 15.50 Tf 1 0 0 1 125.75 191.55 Tm
 ( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 127.49 64.40 Tm
-(AI) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 137.41 64.40 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 140.33 64.40 Tm
-(prompts,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 181.18 64.40 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 184.10 64.40 Tm
-(bonus) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 212.70 64.40 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 215.62 64.40 Tm
-(page,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 241.89 64.40 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 244.81 64.40 Tm
-(social) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 271.65 64.40 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 274.57 64.40 Tm
-(calendar,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 317.75 64.40 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 320.67 64.40 Tm
-(email) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 345.76 64.40 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 348.67 64.40 Tm
-(swipes,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 383.68 64.40 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 386.60 64.40 Tm
-(checklists) Tj ET
+BT /FB 15.50 Tf 1 0 0 1 130.32 191.55 Tm
+(Products) Tj ET
+BT /FB 9.00 Tf 1 0 0 1 63.00 168.55 Tm (#) Tj ET
+BT /FB 9.00 Tf 1 0 0 1 158.45 168.55 Tm (Product) Tj ET
+BT /FB 9.00 Tf 1 0 0 1 253.90 168.55 Tm (Niche) Tj ET
+BT /FB 9.00 Tf 1 0 0 1 349.34 168.55 Tm (Format) Tj ET
+BT /FB 9.00 Tf 1 0 0 1 444.79 168.55 Tm (Best paired with) Tj ET
+0.8 0.8 0.8 RG 0.6 w 60.00 163.55 m 552.00 163.55 l S
+BT /FR 9.00 Tf 1 0 0 1 63.00 153.55 Tm (31) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 153.55 Tm ([Affiliate Blog Content) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 142.55 Tm (Pack]\(products/31-blog-content-pack/\)) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 253.90 153.55 Tm (Affiliate / SEO) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 349.34 153.55 Tm (Post templates + SEO) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 349.34 142.55 Tm (checklist) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 444.79 153.55 Tm (SEO/blogging offers) Tj ET
+0.8 0.8 0.8 RG 0.6 w 60.00 137.55 m 552.00 137.55 l S
+BT /FR 9.00 Tf 1 0 0 1 63.00 127.55 Tm (32) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 127.55 Tm ([AI Image &) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 116.55 Tm (Thumbnail Prompt) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 105.55 Tm (Pack]\(products/32-ai-image-prompts/\)) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 253.90 127.55 Tm (AI + Social) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 349.34 127.55 Tm (50 image prompts) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 444.79 127.55 Tm (AI/design + video) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 444.79 116.55 Tm (offers) Tj ET
+0.8 0.8 0.8 RG 0.6 w 60.00 100.55 m 552.00 100.55 l S
+BT /FR 9.00 Tf 1 0 0 1 63.00 90.55 Tm (33) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 90.55 Tm ([50 Profitable Affiliate) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 79.55 Tm (Niches) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 68.55 Tm (Database]\(products/33-niche-database/\)) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 253.90 90.55 Tm (Affiliate) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 349.34 90.55 Tm (Niche database) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 444.79 90.55 Tm (Beginner offers) Tj ET
+0.8 0.8 0.8 RG 0.6 w 60.00 63.55 m 552.00 63.55 l S
 endstream
 endobj
 8 0 obj
-<< /Length 10367 >>
+<< /Length 16112 >>
 stream
-BT /FR 10.50 Tf 1 0 0 1 74.00 711.50 Tm
-(-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 77.50 711.50 Tm
-( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 80.42 711.50 Tm
-(Batch) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 108.87 711.50 Tm
-( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 111.97 711.50 Tm
-(2) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 118.16 711.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 121.08 711.50 Tm
-(-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 124.57 711.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 127.49 711.50 Tm
-(lead) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 147.34 711.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 150.26 711.50 Tm
-(magnets,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 193.44 711.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 196.36 711.50 Tm
-(video) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 221.46 711.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 224.38 711.50 Tm
-(scripts,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 257.63 711.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 260.55 711.50 Tm
-(AI) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 270.47 711.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 273.39 711.50 Tm
-(repurposing,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 331.75 711.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 334.67 711.50 Tm
-(free) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 352.76 711.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 355.68 711.50 Tm
-(traffic,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 384.27 711.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 387.19 711.50 Tm
-(funnels) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 74.00 697.00 Tm
-(-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 77.50 697.00 Tm
-( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 80.42 697.00 Tm
-(Batch) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 108.87 697.00 Tm
-( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 111.97 697.00 Tm
-(3) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 118.16 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 121.08 697.00 Tm
-(-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 124.57 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 127.49 697.00 Tm
-(review) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 157.83 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 160.75 697.00 Tm
-(site,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 180.00 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 182.92 697.00 Tm
-(webinar) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 219.68 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 222.60 697.00 Tm
-(deck,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 247.70 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 250.61 697.00 Tm
-(paid) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 270.46 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 273.38 697.00 Tm
-(ad) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 285.05 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 287.97 697.00 Tm
-(swipes,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 322.98 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 325.90 697.00 Tm
-(AI) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 335.82 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 338.74 697.00 Tm
-(tools) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 360.92 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 363.84 697.00 Tm
-(directory,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 407.01 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 409.93 697.00 Tm
-(TikTok/Reels) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 471.19 697.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 474.11 697.00 Tm
-(growth) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 74.00 682.50 Tm
-(-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 77.50 682.50 Tm
-( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 80.42 682.50 Tm
-(Batch) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 108.87 682.50 Tm
-( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 111.97 682.50 Tm
-(4) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 118.16 682.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 121.08 682.50 Tm
-(-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 124.57 682.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 127.49 682.50 Tm
-(beginner) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 168.35 682.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 171.27 682.50 Tm
-(playbook,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 216.21 682.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 219.13 682.50 Tm
-(200) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 236.64 682.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 239.56 682.50 Tm
-(headlines,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 287.42 682.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 290.34 682.50 Tm
-(Pinterest) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 331.77 682.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 334.69 682.50 Tm
-(traffic,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 363.28 682.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 366.20 682.50 Tm
-(AI) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 376.12 682.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 379.04 682.50 Tm
-(automation,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 433.90 682.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 436.82 682.50 Tm
-(offer) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 457.83 682.50 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 460.75 682.50 Tm
-(scorecard) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 74.00 668.00 Tm
-(-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 77.50 668.00 Tm
-( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 80.42 668.00 Tm
-(Batch) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 108.87 668.00 Tm
-( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 111.97 668.00 Tm
-(5) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 118.16 668.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 121.08 668.00 Tm
-(-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 124.57 668.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 127.49 668.00 Tm
-(YouTube) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 170.10 668.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 173.02 668.00 Tm
-(growth,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 207.45 668.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 210.37 668.00 Tm
-(Facebook) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 256.47 668.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 259.39 668.00 Tm
-(groups,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 294.41 668.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 297.33 668.00 Tm
-(high-ticket,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 348.10 668.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 351.02 668.00 Tm
-(metrics/optimization,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 446.70 668.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 449.62 668.00 Tm
-(bonus-stack) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 506.23 668.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 74.00 653.50 Tm
-(strategy) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 74.00 639.00 Tm
-(-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 77.50 639.00 Tm
-( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 80.42 639.00 Tm
-(Batch) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 108.87 639.00 Tm
-( ) Tj ET
-BT /FB 10.50 Tf 1 0 0 1 111.97 639.00 Tm
-(6) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 118.16 639.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 121.08 639.00 Tm
-(-) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 124.57 639.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 127.49 639.00 Tm
-(Instagram,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 177.09 639.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 180.01 639.00 Tm
-(DM/outreach) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 240.11 639.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 243.03 639.00 Tm
-(scripts,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 276.29 639.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 279.21 639.00 Tm
-(compliance) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 332.30 639.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 335.22 639.00 Tm
-(pack,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 360.32 639.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 363.24 639.00 Tm
-(launch) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 394.17 639.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 397.09 639.00 Tm
-(planner,) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 435.03 639.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 437.95 639.00 Tm
-(90-day) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 470.04 639.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 472.96 639.00 Tm
-(action) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 500.98 639.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 503.90 639.00 Tm
-(plan) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 60.00 618.00 Tm
-(More) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 83.92 618.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 86.84 618.00 Tm
-(batches) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 123.61 618.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 126.53 618.00 Tm
-(generate) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 167.97 618.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 170.89 618.00 Tm
-(automatically) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 232.16 618.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 235.08 618.00 Tm
-(until) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 254.33 618.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 257.25 618.00 Tm
-(you) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 274.18 618.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 277.10 618.00 Tm
-(say) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 293.44 618.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 296.36 618.00 Tm
-(stop.) Tj ET
-0.7 0.7 0.7 RG 0.8 w 60.00 604.00 m 552.00 604.00 l S
-BT /FR 10.50 Tf 1 0 0 1 60.00 575.00 Tm
-(*License) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 100.27 575.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 103.19 575.00 Tm
-(note:) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 126.54 575.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 129.46 575.00 Tm
-(These) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 158.64 575.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 161.56 575.00 Tm
-(are) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 176.73 575.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 179.65 575.00 Tm
-(starter/PLR-style) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 257.83 575.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 260.75 575.00 Tm
-(assets) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 291.09 575.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 294.01 575.00 Tm
-(created) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 329.03 575.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 331.95 575.00 Tm
-(for) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 344.20 575.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 347.12 575.00 Tm
-(you) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 364.05 575.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 366.97 575.00 Tm
-(to) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 375.72 575.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 378.64 575.00 Tm
-(edit) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 395.57 575.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 398.49 575.00 Tm
-(and) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 60.00 560.00 Tm
-(distribute) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 102.60 560.00 Tm
-( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 105.52 560.00 Tm
+BT /FR 9.00 Tf 1 0 0 1 63.00 716.00 Tm (34) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 716.00 Tm ([Copywriting) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 705.00 Tm (Formulas Swipe) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 694.00 Tm (Pack]\(products/34-copywriting-formulas/\)) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 253.90 716.00 Tm (Affiliate / Copy) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 349.34 716.00 Tm (15 formulas) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 444.79 716.00 Tm (Any promo) Tj ET
+0.8 0.8 0.8 RG 0.6 w 60.00 689.00 m 552.00 689.00 l S
+BT /FR 9.00 Tf 1 0 0 1 63.00 679.00 Tm (35) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 679.00 Tm ([Quiz Funnel) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 158.45 668.00 Tm (Kit]\(products/35-quiz-funnel-kit/\)) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 253.90 679.00 Tm (Affiliate / Lead Gen) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 349.34 679.00 Tm (Blueprint + templates) Tj ET
+BT /FR 9.00 Tf 1 0 0 1 444.79 679.00 Tm (List-building offers) Tj ET
+0.8 0.8 0.8 RG 0.6 w 60.00 663.00 m 552.00 663.00 l S
+BT /FB 15.50 Tf 1 0 0 1 60.00 618.85 Tm
+(PDF) Tj ET
+BT /FB 15.50 Tf 1 0 0 1 92.86 618.85 Tm
+( ) Tj ET
+BT /FB 15.50 Tf 1 0 0 1 97.43 618.85 Tm
+(delivery) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 60.00 594.85 Tm
+(Every) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 86.84 594.85 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 89.76 594.85 Tm
+(product) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 124.77 594.85 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 127.69 594.85 Tm
+(is) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 135.27 594.85 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 138.19 594.85 Tm
+(also) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 157.45 594.85 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 160.37 594.85 Tm
+(built) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 179.63 594.85 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 182.55 594.85 Tm
 (as) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 116.61 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 193.63 594.85 Tm
 ( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 119.52 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 196.55 594.85 Tm
+(a) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 202.39 594.85 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 205.31 594.85 Tm
+(ready-to-deliver) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 278.24 594.85 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 281.16 594.85 Tm
+(PDF) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 302.16 594.85 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 305.08 594.85 Tm
+(in) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 313.25 594.85 Tm
+( ) Tj ET
+BT /FC 10.50 Tf 1 0 0 1 316.17 594.85 Tm
+(build/pdf/) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 379.17 594.85 Tm
+(.) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 60.00 579.85 Tm
+(Rebuild) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 95.59 579.85 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 98.51 579.85 Tm
+(anytime) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 135.27 579.85 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 138.19 579.85 Tm
+(with:) Tj ET
+BT /FC 9.00 Tf 1 0 0 1 70.00 557.35 Tm
+(bash) Tj ET
+BT /FC 9.00 Tf 1 0 0 1 91.60 557.35 Tm
+( ) Tj ET
+BT /FC 9.00 Tf 1 0 0 1 97.00 557.35 Tm
+(tools/build_pdfs.sh) Tj ET
+BT /FB 15.50 Tf 1 0 0 1 60.00 515.20 Tm
+(Batches) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 74.00 491.70 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 77.50 491.70 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 80.42 491.70 Tm
+(Batch) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 108.87 491.70 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 111.97 491.70 Tm
+(1) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 118.16 491.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 121.08 491.70 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 124.57 491.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 127.49 491.70 Tm
+(AI) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 137.41 491.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 140.33 491.70 Tm
+(prompts,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 181.18 491.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 184.10 491.70 Tm
+(bonus) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 212.70 491.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 215.62 491.70 Tm
+(page,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 241.89 491.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 244.81 491.70 Tm
+(social) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 271.65 491.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 274.57 491.70 Tm
+(calendar,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 317.75 491.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 320.67 491.70 Tm
+(email) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 345.76 491.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 348.67 491.70 Tm
+(swipes,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 383.68 491.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 386.60 491.70 Tm
+(checklists) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 74.00 477.20 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 77.50 477.20 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 80.42 477.20 Tm
+(Batch) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 108.87 477.20 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 111.97 477.20 Tm
+(2) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 118.16 477.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 121.08 477.20 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 124.57 477.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 127.49 477.20 Tm
+(lead) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 147.34 477.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 150.26 477.20 Tm
+(magnets,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 193.44 477.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 196.36 477.20 Tm
+(video) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 221.46 477.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 224.38 477.20 Tm
+(scripts,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 257.63 477.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 260.55 477.20 Tm
+(AI) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 270.47 477.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 273.39 477.20 Tm
+(repurposing,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 331.75 477.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 334.67 477.20 Tm
+(free) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 352.76 477.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 355.68 477.20 Tm
+(traffic,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 384.27 477.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 387.19 477.20 Tm
+(funnels) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 74.00 462.70 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 77.50 462.70 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 80.42 462.70 Tm
+(Batch) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 108.87 462.70 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 111.97 462.70 Tm
+(3) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 118.16 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 121.08 462.70 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 124.57 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 127.49 462.70 Tm
+(review) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 157.83 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 160.75 462.70 Tm
+(site,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 180.00 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 182.92 462.70 Tm
+(webinar) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 219.68 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 222.60 462.70 Tm
+(deck,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 247.70 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 250.61 462.70 Tm
+(paid) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 270.46 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 273.38 462.70 Tm
+(ad) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 285.05 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 287.97 462.70 Tm
+(swipes,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 322.98 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 325.90 462.70 Tm
+(AI) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 335.82 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 338.74 462.70 Tm
+(tools) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 360.92 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 363.84 462.70 Tm
+(directory,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 407.01 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 409.93 462.70 Tm
+(TikTok/Reels) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 471.19 462.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 474.11 462.70 Tm
+(growth) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 74.00 448.20 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 77.50 448.20 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 80.42 448.20 Tm
+(Batch) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 108.87 448.20 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 111.97 448.20 Tm
+(4) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 118.16 448.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 121.08 448.20 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 124.57 448.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 127.49 448.20 Tm
+(beginner) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 168.35 448.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 171.27 448.20 Tm
+(playbook,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 216.21 448.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 219.13 448.20 Tm
+(200) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 236.64 448.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 239.56 448.20 Tm
+(headlines,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 287.42 448.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 290.34 448.20 Tm
+(Pinterest) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 331.77 448.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 334.69 448.20 Tm
+(traffic,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 363.28 448.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 366.20 448.20 Tm
+(AI) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 376.12 448.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 379.04 448.20 Tm
+(automation,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 433.90 448.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 436.82 448.20 Tm
+(offer) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 457.83 448.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 460.75 448.20 Tm
+(scorecard) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 74.00 433.70 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 77.50 433.70 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 80.42 433.70 Tm
+(Batch) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 108.87 433.70 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 111.97 433.70 Tm
+(5) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 118.16 433.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 121.08 433.70 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 124.57 433.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 127.49 433.70 Tm
+(YouTube) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 170.10 433.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 173.02 433.70 Tm
+(growth,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 207.45 433.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 210.37 433.70 Tm
+(Facebook) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 256.47 433.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 259.39 433.70 Tm
+(groups,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 294.41 433.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 297.33 433.70 Tm
+(high-ticket,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 348.10 433.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 351.02 433.70 Tm
+(metrics/optimization,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 446.70 433.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 449.62 433.70 Tm
+(bonus-stack) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 506.23 433.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 74.00 419.20 Tm
+(strategy) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 74.00 404.70 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 77.50 404.70 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 80.42 404.70 Tm
+(Batch) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 108.87 404.70 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 111.97 404.70 Tm
+(6) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 118.16 404.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 121.08 404.70 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 124.57 404.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 127.49 404.70 Tm
+(Instagram,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 177.09 404.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 180.01 404.70 Tm
+(DM/outreach) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 240.11 404.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 243.03 404.70 Tm
+(scripts,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 276.29 404.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 279.21 404.70 Tm
+(compliance) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 332.30 404.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 335.22 404.70 Tm
+(pack,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 360.32 404.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 363.24 404.70 Tm
+(launch) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 394.17 404.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 397.09 404.70 Tm
+(planner,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 435.03 404.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 437.95 404.70 Tm
+(90-day) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 470.04 404.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 472.96 404.70 Tm
+(action) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 500.98 404.70 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 503.90 404.70 Tm
+(plan) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 74.00 390.20 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 77.50 390.20 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 80.42 390.20 Tm
+(Batch) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 108.87 390.20 Tm
+( ) Tj ET
+BT /FB 10.50 Tf 1 0 0 1 111.97 390.20 Tm
+(7) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 118.16 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 121.08 390.20 Tm
+(-) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 124.57 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 127.49 390.20 Tm
+(blog) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 147.34 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 150.26 390.20 Tm
+(content) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 184.70 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 187.61 390.20 Tm
+(pack,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 212.71 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 215.63 390.20 Tm
+(AI) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 225.55 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 228.47 390.20 Tm
+(image) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 257.06 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 259.98 390.20 Tm
+(prompts,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 300.83 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 303.74 390.20 Tm
+(niche) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 328.84 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 331.76 390.20 Tm
+(database,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 377.87 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 380.79 390.20 Tm
+(copywriting) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 433.30 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 436.22 390.20 Tm
+(formulas,) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 479.40 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 482.32 390.20 Tm
+(quiz) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 501.58 390.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 504.49 390.20 Tm
+(funnel) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 60.00 369.20 Tm
+(More) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 83.92 369.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 86.84 369.20 Tm
+(batches) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 123.61 369.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 126.53 369.20 Tm
+(generate) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 167.97 369.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 170.89 369.20 Tm
+(automatically) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 232.16 369.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 235.08 369.20 Tm
+(until) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 254.33 369.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 257.25 369.20 Tm
+(you) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 274.18 369.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 277.10 369.20 Tm
+(say) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 293.44 369.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 296.36 369.20 Tm
+(stop.) Tj ET
+0.7 0.7 0.7 RG 0.8 w 60.00 355.20 m 552.00 355.20 l S
+BT /FR 10.50 Tf 1 0 0 1 60.00 326.20 Tm
+(*License) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 100.27 326.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 103.19 326.20 Tm
+(note:) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 126.54 326.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 129.46 326.20 Tm
+(These) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 158.64 326.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 161.56 326.20 Tm
+(are) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 176.73 326.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 179.65 326.20 Tm
+(starter/PLR-style) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 257.83 326.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 260.75 326.20 Tm
+(assets) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 291.09 326.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 294.01 326.20 Tm
+(created) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 329.03 326.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 331.95 326.20 Tm
+(for) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 344.20 326.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 347.12 326.20 Tm
+(you) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 364.05 326.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 366.97 326.20 Tm
+(to) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 375.72 326.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 378.64 326.20 Tm
+(edit) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 395.57 326.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 398.49 326.20 Tm
+(and) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 60.00 311.20 Tm
+(distribute) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 102.60 311.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 105.52 311.20 Tm
+(as) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 116.61 311.20 Tm
+( ) Tj ET
+BT /FR 10.50 Tf 1 0 0 1 119.52 311.20 Tm
 (bonuses.) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 162.13 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 162.13 311.20 Tm
 ( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 165.05 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 165.05 311.20 Tm
 (Always) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 198.31 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 198.31 311.20 Tm
 ( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 201.23 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 201.23 311.20 Tm
 (confirm) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 235.64 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 235.64 311.20 Tm
 ( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 238.56 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 238.56 311.20 Tm
 (the) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 253.16 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 253.16 311.20 Tm
 ( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 256.08 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 256.08 311.20 Tm
 (front-end) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 298.10 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 298.10 311.20 Tm
 ( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 301.02 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 301.02 311.20 Tm
 (offer's) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 329.28 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 329.28 311.20 Tm
 ( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 332.20 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 332.20 311.20 Tm
 (promo) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 361.96 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 361.96 311.20 Tm
 ( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 364.88 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 364.88 311.20 Tm
 (rules) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 387.63 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 387.63 311.20 Tm
 ( ) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 390.55 560.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 390.55 311.20 Tm
 (before) Tj ET
-BT /FR 10.50 Tf 1 0 0 1 60.00 545.00 Tm
+BT /FR 10.50 Tf 1 0 0 1 60.00 296.20 Tm
 (distributing.*) Tj ET
 endstream
 endobj
@@ -1478,15 +1600,15 @@ xref
 0000000408 00000 n 
 0000019045 00000 n 
 0000028356 00000 n 
-0000038459 00000 n 
-0000048879 00000 n 
-0000049036 00000 n 
-0000049194 00000 n 
-0000049352 00000 n 
-0000049510 00000 n 
-0000049589 00000 n 
+0000037626 00000 n 
+0000053791 00000 n 
+0000053948 00000 n 
+0000054106 00000 n 
+0000054264 00000 n 
+0000054422 00000 n 
+0000054501 00000 n 
 trailer
 << /Size 15 /Root 14 0 R >>
 startxref
-49640
+54552
 %%EOF

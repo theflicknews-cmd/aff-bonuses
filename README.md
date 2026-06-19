@@ -77,6 +77,16 @@ and delivered to buyers immediately.
 | 29 | [Affiliate Launch & Promo Planner](products/29-launch-planner/) | Affiliate | Timeline template | Launch promos |
 | 30 | [The 90-Day Affiliate Action Plan](products/30-90-day-action-plan/) | Affiliate | 12-week roadmap | Beginner offers (capstone) |
 
+## Batch 7 — Products
+
+| # | Product | Niche | Format | Best paired with |
+|---|---------|-------|--------|------------------|
+| 31 | [Affiliate Blog Content Pack](products/31-blog-content-pack/) | Affiliate / SEO | Post templates + SEO checklist | SEO/blogging offers |
+| 32 | [AI Image & Thumbnail Prompt Pack](products/32-ai-image-prompts/) | AI + Social | 50 image prompts | AI/design + video offers |
+| 33 | [50 Profitable Affiliate Niches Database](products/33-niche-database/) | Affiliate | Niche database | Beginner offers |
+| 34 | [Copywriting Formulas Swipe Pack](products/34-copywriting-formulas/) | Affiliate / Copy | 15 formulas | Any promo |
+| 35 | [Quiz Funnel Kit](products/35-quiz-funnel-kit/) | Affiliate / Lead Gen | Blueprint + templates | List-building offers |
+
 ## PDF delivery
 
 Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
@@ -94,6 +104,7 @@ bash tools/build_pdfs.sh
 - **Batch 4** — beginner playbook, 200 headlines, Pinterest traffic, AI automation, offer scorecard
 - **Batch 5** — YouTube growth, Facebook groups, high-ticket, metrics/optimization, bonus-stack strategy
 - **Batch 6** — Instagram, DM/outreach scripts, compliance pack, launch planner, 90-day action plan
+- **Batch 7** — blog content pack, AI image prompts, niche database, copywriting formulas, quiz funnel
 
 More batches generate automatically until you say stop.
 
