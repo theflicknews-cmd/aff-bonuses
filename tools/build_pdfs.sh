@@ -139,5 +139,21 @@ $PY "build/pdf/39-AI-Market-Research-Kit.pdf" "AI Market Research & Customer Ava
 $PY "build/pdf/40-Glossary-QuickStart.pdf" "Affiliate Marketing Glossary & Quick-Reference" \
     products/40-glossary-quickstart/README.md products/40-glossary-quickstart/glossary.md
 
+# ---- Batch 9 (advanced / scaling) ----
+$PY "build/pdf/41-Recurring-SaaS-System.pdf" "Recurring & SaaS Affiliate Income System" \
+    products/41-recurring-saas-system/README.md products/41-recurring-saas-system/recurring-tracker.md
+
+$PY "build/pdf/42-Email-Deliverability.pdf" "Email Deliverability & Inbox Mastery Guide" \
+    products/42-email-deliverability/README.md products/42-email-deliverability/deliverability-checklist.md
+
+$PY "build/pdf/43-Outsourcing-Scaling.pdf" "Outsourcing & Scaling Playbook" \
+    products/43-outsourcing-scaling/README.md products/43-outsourcing-scaling/delegation-templates.md
+
+$PY "build/pdf/44-Seasonal-Promo-Pack.pdf" "Seasonal & Holiday Promo Swipe Pack" \
+    products/44-seasonal-promo-pack/README.md products/44-seasonal-promo-pack/seasonal-swipes.md
+
+$PY "build/pdf/45-Affiliate-SOP-Toolkit.pdf" "Affiliate SOP & Systems Toolkit" \
+    products/45-affiliate-sop-toolkit/README.md products/45-affiliate-sop-toolkit/sops.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/

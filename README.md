@@ -97,6 +97,16 @@ and delivered to buyers immediately.
 | 39 | [AI Market Research & Avatar Kit](products/39-ai-market-research-kit/) | AI | Research prompts + worksheet | Any offer |
 | 40 | [Affiliate Marketing Glossary & Quick-Reference](products/40-glossary-quickstart/) | Affiliate | Glossary + cheat sheet | Beginner offers |
 
+## Batch 9 — Products (advanced / scaling)
+
+| # | Product | Niche | Format | Best paired with |
+|---|---------|-------|--------|------------------|
+| 41 | [Recurring & SaaS Affiliate Income System](products/41-recurring-saas-system/) | Affiliate (adv.) | Strategy + MRR tracker | SaaS/subscription offers |
+| 42 | [Email Deliverability & Inbox Mastery Guide](products/42-email-deliverability/) | Affiliate / Email (adv.) | Guide + checklists | Email/list offers |
+| 43 | [Outsourcing & Scaling Playbook](products/43-outsourcing-scaling/) | Affiliate (adv.) | System + hiring templates | Scaling/agency offers |
+| 44 | [Seasonal & Holiday Promo Swipe Pack](products/44-seasonal-promo-pack/) | Affiliate | Calendar + seasonal swipes | Any offer, year-round |
+| 45 | [Affiliate SOP & Systems Toolkit](products/45-affiliate-sop-toolkit/) | Affiliate (adv.) | SOPs + dashboards | Scaling/biz offers |
+
 ## PDF delivery
 
 Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
@@ -116,6 +126,7 @@ bash tools/build_pdfs.sh
 - **Batch 6** — Instagram, DM/outreach scripts, compliance pack, launch planner, 90-day action plan
 - **Batch 7** — blog content pack, AI image prompts, niche database, copywriting formulas, quiz funnel
 - **Batch 8** — list growth, story email sequence, personal brand, AI market research, glossary/reference
+- **Batch 9** — recurring/SaaS income, email deliverability, outsourcing/scaling, seasonal promos, SOP toolkit
 
 More batches generate automatically until you say stop.
 
