@@ -139,6 +139,11 @@ email + social swipes, and bonus-page copy. Just add your `[PRODUCT]` and `[LINK
 | 58 | [Email / List-Building Bundle](bundles/58-email-list-building-bundle/) | Email/list tools | Avatar + angles + 5 emails + social + bonus page |
 | 59 | [Traffic & Social Growth Bundle](bundles/59-traffic-social-bundle/) | Traffic/social tools | Avatar + angles + 5 emails + social + bonus page |
 | 60 | [Weight Loss / Fitness Bundle](bundles/60-weight-loss-fitness-bundle/) | Health/fitness | Avatar + angles + 5 emails + social + bonus page (compliant) |
+| 61 | [Video Creation & Editing Tools Bundle](bundles/61-video-tools-bundle/) | Video tools | Avatar + angles + 5 emails + social + bonus page |
+| 62 | [Funnel & Website Builder Bundle](bundles/62-funnel-builder-bundle/) | Funnel/site builders | Avatar + angles + 5 emails + social + bonus page |
+| 63 | [eCommerce / Dropshipping Bundle](bundles/63-ecommerce-dropshipping-bundle/) | Ecommerce | Avatar + angles + 5 emails + social + bonus page |
+| 64 | [Personal Finance / Investing Bundle](bundles/64-personal-finance-bundle/) | Finance | Avatar + angles + 5 emails + social + bonus page (compliant) |
+| 65 | [Self-Improvement / Productivity Bundle](bundles/65-self-improvement-bundle/) | Self-improvement | Avatar + angles + 5 emails + social + bonus page |
 
 ## PDF delivery
 
@@ -163,6 +168,7 @@ bash tools/build_pdfs.sh
 - **Batch 10** — 5-day challenge, podcast/audio, custom-GPT builder, giveaway/viral kit, X (Twitter) growth
 - **Batch 11** — LinkedIn, backend/LTV, faceless AI video, newsletter monetization, deal/comparison site
 - **Batch 12** — niche promo bundles (AI tools, MMO, email/list, traffic/social, weight-loss) — done-for-you campaigns
+- **Batch 13** — niche promo bundles (video tools, funnel builders, ecommerce, personal finance, self-improvement)
 
 More batches generate automatically until you say stop.
 

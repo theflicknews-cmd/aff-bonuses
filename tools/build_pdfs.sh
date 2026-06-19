@@ -203,5 +203,21 @@ $PY "build/pdf/59-Traffic-Social-Bundle.pdf" "Traffic & Social Media Growth Prom
 $PY "build/pdf/60-Weight-Loss-Fitness-Bundle.pdf" "Weight Loss / Fitness Promo Bundle" \
     bundles/60-weight-loss-fitness-bundle/README.md bundles/60-weight-loss-fitness-bundle/swipes.md
 
+# ---- Batch 13 (more niche promo bundles) ----
+$PY "build/pdf/61-Video-Tools-Bundle.pdf" "Video Creation & Editing Tools Promo Bundle" \
+    bundles/61-video-tools-bundle/README.md bundles/61-video-tools-bundle/swipes.md
+
+$PY "build/pdf/62-Funnel-Builder-Bundle.pdf" "Funnel & Website Builder Promo Bundle" \
+    bundles/62-funnel-builder-bundle/README.md bundles/62-funnel-builder-bundle/swipes.md
+
+$PY "build/pdf/63-Ecommerce-Dropshipping-Bundle.pdf" "eCommerce / Dropshipping Promo Bundle" \
+    bundles/63-ecommerce-dropshipping-bundle/README.md bundles/63-ecommerce-dropshipping-bundle/swipes.md
+
+$PY "build/pdf/64-Personal-Finance-Bundle.pdf" "Personal Finance / Investing Promo Bundle" \
+    bundles/64-personal-finance-bundle/README.md bundles/64-personal-finance-bundle/swipes.md
+
+$PY "build/pdf/65-Self-Improvement-Bundle.pdf" "Self-Improvement / Productivity Promo Bundle" \
+    bundles/65-self-improvement-bundle/README.md bundles/65-self-improvement-bundle/swipes.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/
