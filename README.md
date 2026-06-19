@@ -155,17 +155,6 @@ email + social swipes, and bonus-page copy. Just add your `[PRODUCT]` and `[LINK
 | 74 | [Travel Bundle](bundles/74-travel-bundle/) | Travel | Avatar + angles + 5 emails + social + bonus page |
 | 75 | [Parenting / Family Bundle](bundles/75-parenting-bundle/) | Parenting | Avatar + angles + 5 emails + social + bonus page |
 
-## ⭐ FunnelHero AI — Dedicated Bonus Suite (10 bonuses, $4,670 value)
-
-A complete done-for-you bonus stack built specifically for promoting **FunnelHero AI**.
-See [`funnelhero-bonuses/`](funnelhero-bonuses/). PDFs: `build/pdf/FH1`–`FH10`.
-
-1. Chat-Command Vault (260 commands) · 2. Model-Matched Prompt Library (105) · 3. Funnel
-Blueprint Library (20 funnels/75 pages) · 4. Niche Funnel Goldmine (100 niches) · 5.
-Funnel Copy Swipe File (110+) · 6. AI Image Prompt Pack (100) · 7. AI Brain Selector (80)
-· 8. Funnel Rescue Diagnostics (100 fixes) · 9. Split-Test Idea Bank (90) · 10.
-Power-Workflow Vault (75).
-
 ## PDF delivery
 
 Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
