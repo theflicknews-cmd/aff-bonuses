@@ -127,6 +127,19 @@ and delivered to buyers immediately.
 | 54 | [Affiliate Newsletter Monetization System](products/54-newsletter-monetization/) | Affiliate / Email | Model + issue templates | List/email offers |
 | 55 | [Deal & Comparison Site Model](products/55-deal-comparison-site/) | Affiliate / SEO | Site model + page templates | Recurring/SaaS offers |
 
+## Batch 12 — Niche Promo Bundles (done-for-you, applied)
+
+Complete campaign-in-a-box kits for a specific niche: pre-filled avatar, angles,
+email + social swipes, and bonus-page copy. Just add your `[PRODUCT]` and `[LINK]`.
+
+| # | Bundle | Niche | Includes |
+|---|--------|-------|----------|
+| 56 | [AI Tools / Software Bundle](bundles/56-ai-tools-bundle/) | AI software | Avatar + angles + 5 emails + social + bonus page |
+| 57 | [Make Money Online / Affiliate Bundle](bundles/57-make-money-online-bundle/) | MMO/affiliate | Avatar + angles + 5 emails + social + bonus page |
+| 58 | [Email / List-Building Bundle](bundles/58-email-list-building-bundle/) | Email/list tools | Avatar + angles + 5 emails + social + bonus page |
+| 59 | [Traffic & Social Growth Bundle](bundles/59-traffic-social-bundle/) | Traffic/social tools | Avatar + angles + 5 emails + social + bonus page |
+| 60 | [Weight Loss / Fitness Bundle](bundles/60-weight-loss-fitness-bundle/) | Health/fitness | Avatar + angles + 5 emails + social + bonus page (compliant) |
+
 ## PDF delivery
 
 Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
@@ -149,6 +162,7 @@ bash tools/build_pdfs.sh
 - **Batch 9** — recurring/SaaS income, email deliverability, outsourcing/scaling, seasonal promos, SOP toolkit
 - **Batch 10** — 5-day challenge, podcast/audio, custom-GPT builder, giveaway/viral kit, X (Twitter) growth
 - **Batch 11** — LinkedIn, backend/LTV, faceless AI video, newsletter monetization, deal/comparison site
+- **Batch 12** — niche promo bundles (AI tools, MMO, email/list, traffic/social, weight-loss) — done-for-you campaigns
 
 More batches generate automatically until you say stop.
 

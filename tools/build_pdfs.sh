@@ -187,5 +187,21 @@ $PY "build/pdf/54-Newsletter-Monetization.pdf" "Affiliate Newsletter Monetizatio
 $PY "build/pdf/55-Deal-Comparison-Site.pdf" "Deal & Comparison Site Model" \
     products/55-deal-comparison-site/README.md products/55-deal-comparison-site/page-structures.md
 
+# ---- Batch 12 (niche promo bundles - done-for-you) ----
+$PY "build/pdf/56-AI-Tools-Bundle.pdf" "AI Tools / Software Promo Bundle" \
+    bundles/56-ai-tools-bundle/README.md bundles/56-ai-tools-bundle/swipes.md
+
+$PY "build/pdf/57-Make-Money-Online-Bundle.pdf" "Make Money Online / Affiliate Promo Bundle" \
+    bundles/57-make-money-online-bundle/README.md bundles/57-make-money-online-bundle/swipes.md
+
+$PY "build/pdf/58-Email-List-Building-Bundle.pdf" "Email / List-Building Promo Bundle" \
+    bundles/58-email-list-building-bundle/README.md bundles/58-email-list-building-bundle/swipes.md
+
+$PY "build/pdf/59-Traffic-Social-Bundle.pdf" "Traffic & Social Media Growth Promo Bundle" \
+    bundles/59-traffic-social-bundle/README.md bundles/59-traffic-social-bundle/swipes.md
+
+$PY "build/pdf/60-Weight-Loss-Fitness-Bundle.pdf" "Weight Loss / Fitness Promo Bundle" \
+    bundles/60-weight-loss-fitness-bundle/README.md bundles/60-weight-loss-fitness-bundle/swipes.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/
