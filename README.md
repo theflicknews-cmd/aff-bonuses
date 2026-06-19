@@ -27,12 +27,32 @@ and delivered to buyers immediately.
 | 4 | [Affiliate Promo Email Swipe File](products/04-email-swipe-file/) | Affiliate | 12 email swipes | List-building, launches |
 | 5 | [The Affiliate Profit Checklist Pack](products/05-affiliate-profit-checklists/) | Affiliate | 5 checklists | Beginner-focused offers |
 
+## Batch 2 — Products
+
+| # | Product | Niche | Format | Best paired with |
+|---|---------|-------|--------|------------------|
+| 6 | [Lead Magnet Creation Kit](products/06-lead-magnet-kit/) | Affiliate / List | 10 blueprints + opt-in copy | List-building offers |
+| 7 | [VSL & Video Script Pack](products/07-video-script-pack/) | Affiliate / Video | 6 scripts | YouTube/TikTok tools |
+| 8 | [AI Content Repurposing System](products/08-ai-repurposing-system/) | AI + Social | Workflow + prompts | AI/content software |
+| 9 | [Free Traffic Playbook](products/09-free-traffic-playbook/) | Affiliate / Traffic | 7 methods + 30-day plan | Beginner offers |
+| 10 | [Done-For-You Funnel Templates](products/10-funnel-templates/) | Affiliate / Funnels | 4 funnels + page copy | Funnel builders |
+
+## PDF delivery
+
+Every product is also built as a ready-to-deliver PDF in `build/pdf/`.
+Rebuild anytime with:
+
+```
+bash tools/build_pdfs.sh
+```
+
 ## Batches
 
-- **Batch 1** — this set (AI prompts, bonus page, social calendar, email swipes, checklists)
+- **Batch 1** — AI prompts, bonus page, social calendar, email swipes, checklists
+- **Batch 2** — lead magnets, video scripts, AI repurposing, free traffic, funnels
 
-Ask for "next batch" to generate 5 more products on a different angle
-(e.g., lead magnets, video scripts, traffic playbooks).
+More batches generate automatically until you say stop. Future angles:
+review-site kit, webinar slide decks, retargeting ad swipes, niche-specific packs.
 
 ---
 

@@ -26,5 +26,22 @@ $PY "build/pdf/05-Affiliate-Profit-Checklists.pdf" "The Affiliate Profit Checkli
     products/05-affiliate-profit-checklists/README.md \
     products/05-affiliate-profit-checklists/checklists.md
 
+# ---- Batch 2 ----
+$PY "build/pdf/06-Lead-Magnet-Kit.pdf" "Lead Magnet Creation Kit" \
+    products/06-lead-magnet-kit/README.md products/06-lead-magnet-kit/optin-copy.md
+
+$PY "build/pdf/07-Video-Script-Pack.pdf" "VSL & Video Script Pack" \
+    products/07-video-script-pack/README.md products/07-video-script-pack/scripts.md
+
+$PY "build/pdf/08-AI-Repurposing-System.pdf" "AI Content Repurposing System" \
+    products/08-ai-repurposing-system/README.md products/08-ai-repurposing-system/prompts.md
+
+$PY "build/pdf/09-Free-Traffic-Playbook.pdf" "Free Traffic Playbook" \
+    products/09-free-traffic-playbook/README.md \
+    products/09-free-traffic-playbook/30-day-traffic-plan.md
+
+$PY "build/pdf/10-Funnel-Templates.pdf" "Done-For-You Sales Funnel Templates" \
+    products/10-funnel-templates/README.md products/10-funnel-templates/page-copy.md
+
 echo "Done. PDFs in build/pdf/:"
 ls -la build/pdf/
